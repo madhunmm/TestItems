@@ -1,1 +1,1 @@
-from madhunmm/springimages
+from contractormsb-imagestream:1.0-SNAPSHOT
